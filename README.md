@@ -124,7 +124,7 @@ invoice-qc-service-ankit/
 
 ### 2.2 Data flow
 
-```mermaid
+```
 flowchart LR
   A[PDF files] --> B[Extraction\n(invoice_qc.extractor)]
   B --> C[Invoice JSON list]
