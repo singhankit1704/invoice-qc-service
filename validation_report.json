@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "total_invoices": 5,
+    "valid_invoices": 5,
+    "invalid_invoices": 0,
+    "error_counts": {}
+  },
+  "results": [
+    {
+      "invoice_id": "34343",
+      "is_valid": true,
+      "errors": []
+    },
+    {
+      "invoice_id": "234953",
+      "is_valid": true,
+      "errors": []
+    },
+    {
+      "invoice_id": "34869",
+      "is_valid": true,
+      "errors": []
+    },
+    {
+      "invoice_id": "123456",
+      "is_valid": true,
+      "errors": []
+    },
+    {
+      "invoice_id": "89493",
+      "is_valid": true,
+      "errors": []
+    }
+  ]
+}
