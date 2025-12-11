@@ -1,7 +1,6 @@
 # Invoice QC Service – Ankit Singh
 
-A small but realistic **Invoice Extraction & Quality Control Service** built for the
-_Software Engineer Intern (Data & Development)_ take-home assignment.
+A small but realistic **Invoice Extraction & Quality Control Service** 
 
 It can:
 
